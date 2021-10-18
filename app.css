@@ -1,0 +1,168 @@
+body{
+    background-color: black;
+}
+
+#container{
+    display: flex;
+    justify-content: center
+}
+
+#body-div{
+    width: 90%;
+    background-color: black;
+}
+
+#header {
+    background-image: url(./images/0026053173_100.png);
+}
+
+#header span {
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 10px;
+    font-size: 40px;
+    width: 300px;
+    padding-left: 6px;
+    border-radius: 20px;
+    display: inline;
+}
+
+#header a {
+  color: white;
+  text-decoration: none; /* no underline */
+}
+
+#header p {
+    color: white;
+    font-size: large;
+    text-align: center;
+}
+
+#anchors a{
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-right: 10px;
+    font-size: small;
+}
+
+#body{
+    display: flex;
+}
+
+#blue-col-left {
+    background-color: #185C81;
+    height: 100;
+    width: 15px
+}
+
+#blue-col-top {
+    background-color:#185C81;
+    height: 13px;
+    width: 100%;
+}
+
+#current-projects {
+    color: white;
+    background-color: black;
+    max-height: fit-content;
+}
+
+#current-projects p {
+    margin-left: 65px;
+}
+
+#cp-title {
+    font-size: x-large;
+    font-weight: bold;
+}
+
+p{
+    color: white;
+}
+
+label {
+    color: white;
+}
+
+#music-body iframe {
+    margin-left: 200px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+
+}
+
+#mustard-seed-imgs {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#mustard-seed-imgs img {
+    display: block;
+    max-height: 400px;
+    max-width: 400px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    
+}
+
+#brutalist-mandala-imgs {
+    display: block;
+    
+}
+
+#brutalist-mandala-imgs img {
+    display: block;
+    max-height: 400px;
+    max-width: 300px;
+    margin-left: 400px;
+    margin-right: 20px;
+    margin-top: 150px;
+}
+
+#paintings-imgs {
+    display: block;
+    
+}
+
+#paintings-imgs div {
+    margin-bottom: 500px;
+}
+
+#paintings-imgs img {
+    display: block;
+    max-height: 400px;
+    max-width: 400px;
+    margin-left: 400px;
+    margin-right: 20px;
+    margin-top: 150px;
+}
+
+#tentacle-dream {
+    height: 400px !important;
+    width: 400px !important;
+}
+
+#contact-labels {
+    display: flex;
+    justify-content: center;
+    margin-left: 350px;
+}
+
+#spectral-img-and-p {
+    display: flex;
+    margin-bottom: 100px;
+}
+
+#spectral-img {
+    height: 200px;
+    display: inline;
+    margin-left: 65px;
+}
+
+#spec-tech-p {
+    margin-top: 50px;
+    display: inline;
+}
