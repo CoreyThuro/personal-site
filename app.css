@@ -178,10 +178,12 @@ label {
 
 #spectral-visualizer:hover {
     color: blue;
+    text-decoration: underline;
 }
 
 #spectral-visualizer {
     color: white;
+    text-decoration: none;
 }
 
 #github-anchor {
@@ -206,9 +208,15 @@ label {
 
 #portfolio-site:hover {
     color: blue;
+    text-decoration: underline;
 }
 
 #portfolio-site {
     color: white;
+    text-decoration: none;
 }
 
+hr{
+    margin-top: -50px;
+    margin-bottom: 30px;
+}
