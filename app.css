@@ -191,3 +191,24 @@ label {
 #github-anchor:hover {
     text-decoration: underline;
 }
+
+#portfolio-img-and-p {
+    display: flex;
+    margin-bottom: 100px;
+    margin-left: 0px;
+}
+
+#portfolio-img {
+    height: 200px;
+    display: inline;
+    margin-left: 65px;
+}
+
+#portfolio-site:hover {
+    color: blue;
+}
+
+#portfolio-site {
+    color: white;
+}
+
