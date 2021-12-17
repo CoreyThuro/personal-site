@@ -220,3 +220,12 @@ hr{
     margin-top: -50px;
     margin-bottom: 30px;
 }
+
+#vis-art-body a {
+    font-size: large;
+}
+
+#vis-art-body a:hover {
+    text-decoration: underline;
+    text-decoration-color: white;
+}
